@@ -3,6 +3,7 @@ title: Comments Support
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
+  - Security Blue Team
 author: Daniel Kelly
 date: 2019-07-24T19:59:59.000Z
 featureImage: /uploads/disqus-hero.jpg
