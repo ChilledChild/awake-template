@@ -1,8 +1,8 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
+      title="Contact Me"
+      subtitle=""
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -28,15 +28,17 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    Cyber Security Analyst
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  [LinkedIn](https://www.linkedin.com/in/dannychild/)
+                </p>
+                <p>
+                  [Twitter](https://twitter.com/_chilledchild)  
+                </p>
+                <p>
+                  [Github](https://github.com/ChilledChild)
                 </p>
               </div>
             </article>
