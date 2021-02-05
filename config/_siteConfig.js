@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: '#####',
-  tagline: 'A blog by Danny Child',
+  siteName: 'Danny Child',
+  tagline: 'A blog for learning',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
