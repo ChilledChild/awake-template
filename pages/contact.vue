@@ -32,13 +32,13 @@
                   </strong>
                 </p>
                 <p>
-                  [LinkedIn](https://www.linkedin.com/in/dannychild/)
+                  <a href="https://www.linkedin.com/in/dannychild/">Linkedin</a>
                 </p>
                 <p>
-                  [Twitter](https://twitter.com/_chilledchild)  
+                  <a href="https://twitter.com/_chilledchild">Twitter</a>
                 </p>
                 <p>
-                  [Github](https://github.com/ChilledChild)
+                  <a href="https://github.com/ChilledChild">Github</a>
                 </p>
               </div>
             </article>
