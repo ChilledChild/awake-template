@@ -33,11 +33,6 @@ export default {
     {
       name: 'Projects',
       link: '/categories/projects'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
