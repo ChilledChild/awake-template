@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Me"
-      subtitle="What I do and want to learn"
+      subtitle="What I do, what I want to learn"
       image="/uploads/erik-mclean-fehsay6f3lc-unsplash.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
