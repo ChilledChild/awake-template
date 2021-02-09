@@ -12,7 +12,7 @@ export default {
   siteName: 'Danny Child',
   tagline: 'A blog for learning',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'ethernet.png', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'Ethernet.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
