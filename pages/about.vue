@@ -19,7 +19,7 @@
           <h3>What I want to learn</h3>
           <p>
             Topics that fall under the STEM category have always gained my interest.<br>
-            While I beleive honing career skills is always in focus, diverisying my interest has lead me to have talents in musicianship or refining communicaiton.<br>
+            While I beleive honing career skills is always in focus, diverisying my interest has lead me to have talents such as musicianship and refining my communicaiton.<br>
             In the meantime, these are some people that I get some unique insight from.<br>
           </p>
           <p>
