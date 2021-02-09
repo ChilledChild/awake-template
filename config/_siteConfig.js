@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Danny Child',
   tagline: 'A blog for learning',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/Ethernet.png',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false,
