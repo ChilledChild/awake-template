@@ -1,90 +1,39 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
+      title="About Me"
+      subtitle="What I do and want to learn"
+      image="/uploads/erik-mclean-fehsaY6F3Lc-unsplash.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>What I do</h3>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
+            As a security analyst, my responsabilites include review security incidents, investigate for potential compromise, automate tasks, and develop dashboard visualizations.
+            I also take time to focus on current industry practice and develop skills in other areas of IT.
+          </p>
+          <p>  
+            Outside of the IT world, I enjoy tabletop games, outdoor activities, and social events.
+          </p>
+          <h3>What I want to learn</h3>
+          <p>
+            Topics that fall under the STEM category have always gained my interest.<br>
+            While I beleive honing career skills is always in focus, diverisying my interest has lead me to have talents in musicianship or refining communicaiton.<br>
+            In the meantime, these are some people that I get some unique insight from.<br>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-
-          <h3>Another Fake Heading</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            <ul>
+              <li><a href="https://www.youtube.com/MichaelPennMath">Math theory from Michael Penn</a></li>
+              <li><a href="https://www.youtube.com/adamneely">Music theory from Adam Neely</a></li>
+              <li><a href="https://www.youtube.com/simonegiertz">Engineering ideas from Simone Giertz</a></li>
+              <li><a href="https://www.youtube.com/rossmanngroup">Technology and state activism from Louis Rossmann</a></li>
+              <li><a href="https://www.youtube.com/corridorcrew">Visual and special effects from the Corridor Crew</a></li>
+              <li><a href="https://www.youtube.com/TomScottGo">Tom Scott on topics I didn't know that I wanted to learn</a></li>
+            </ul>
           </p>
         </div>
-
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Cool Stuff We Do
-              </p>
-              <p class="subtitle">
-                Sooo Cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Other Cool Things
-              </p>
-              <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
-              </p>
-              <p class="subtitle">
-                that is all
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-        </div>
-      </template>
-
+          </template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
           Latest Posts
