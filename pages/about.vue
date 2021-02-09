@@ -3,7 +3,7 @@
     <site-hero
       title="About Me"
       subtitle="What I do and want to learn"
-      image="/uploads/erik-mclean-fehsaY6F3Lc-unsplash.jpg"
+      image="/uploads/erik-mclean-fehsay6f3lc-unsplash.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
