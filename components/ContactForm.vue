@@ -51,7 +51,7 @@
     </div>
     <div class="control">
       <button class="button is-primary">
-        Contact Us
+        Send message
       </button>
     </div>
   </form>
