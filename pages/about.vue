@@ -14,7 +14,7 @@
             I also take time to focus on current industry practice and develop skills in other areas of IT.
           </p>
           <p>  
-            Outside of the IT world, I enjoy tabletop games, outdoor activities, and social events.
+            Outside of the IT world, I enjoy outdoor activities, tabletop games, and social events.
           </p>
           <h3>What I want to learn</h3>
           <p>
@@ -27,8 +27,8 @@
               <li><a href="https://www.youtube.com/MichaelPennMath">Math theory from Michael Penn</a></li>
               <li><a href="https://www.youtube.com/adamneely">Music theory from Adam Neely</a></li>
               <li><a href="https://www.youtube.com/simonegiertz">Engineering ideas from Simone Giertz</a></li>
-              <li><a href="https://www.youtube.com/rossmanngroup">Technology and state activism from Louis Rossmann</a></li>
               <li><a href="https://www.youtube.com/corridorcrew">Visual and special effects from the Corridor Crew</a></li>
+              <li><a href="https://www.youtube.com/rossmanngroup">Technology and state activism from Louis Rossmann</a></li>
               <li><a href="https://www.youtube.com/TomScottGo">Tom Scott on topics I didn't know that I wanted to learn</a></li>
             </ul>
           </p>
