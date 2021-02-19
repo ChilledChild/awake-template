@@ -1,5 +1,5 @@
 ---
 name: Security Blue Team & BTLO
-image: /uploads/sander-weeteling-kabfjusox74-unsplash.jpg
+image: /uploads/1572376818454.jpg
 description: Security Blue Team & Blue Team Labs Online
 ---
