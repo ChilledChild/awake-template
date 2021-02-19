@@ -29,7 +29,7 @@ The worldwide leaderboard shows each user’s ranking and earned badges. I was a
 
 ## What is BTLO working on now?
 
-Being in the beta phase, many aspects of BTLO are developing and will continue to grow once open to the public. Servers will be available in many regions worldwide, additional challenges will be published, and the community will continue to grow with time. An additional three new labs will be added at launch that were not previously available during the beta.
+Being in the beta phase, many aspects of BTLO are developing and will continue to grow once open to the public. Servers will be available in many regions worldwide, additional challenges will be published, and the community will continue to grow with time. An additional 9 new labs will be added at launch that were not previously available during the beta.
 
 ## How does BTLO compare to other online platforms?
 
