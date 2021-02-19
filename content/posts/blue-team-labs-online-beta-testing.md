@@ -39,7 +39,7 @@ BTLO allows students to improve their already existing knowledge as a defender. 
 
 An investigation lab is hosted by BTLO where investigations are performed in the browser. A challenge is a scenario including files that can be downloaded to your computer. All challenges are available for free, as well as one investigation lab. Additional investigation labs are available to BTLO PRO subscribers.
 
-## How much is it a PRO subscription?
+## How much is a PRO subscription?
 
 There are 4 options for subscribing:
 
