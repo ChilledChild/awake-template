@@ -23,6 +23,8 @@ While my experience with handling digital forensic cases is only foundational, I
 
 The worldwide leaderboard shows each user’s ranking and earned badges. I was at the top for the first part of day 1, until the investigation lab became accessible and others raced to the top as I took a break.
 
+![BTLO Private Beta Worldwide Leaderboard](/uploads/blueteamlabs.online_home_leaderboard.png)
+
 ![BTLO Private Beta Profile of Danny Child](/uploads/blueteamlabs.online_home_user_7-2-.png)
 
 **What is BTLO working on now?**
