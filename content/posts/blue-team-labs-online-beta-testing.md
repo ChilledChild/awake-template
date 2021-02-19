@@ -1,5 +1,5 @@
 ---
-title: Blue Team Labs Online Beta Testing
+title: Blue Team Labs Online Private Beta Testing
 subtitle: A quick dive into what is to come
 category:
   - Security Blue Team & BTLO
@@ -22,6 +22,8 @@ The Wireshark and WordPress Log challenges were relatively simple, as I was able
 While my experience with handling digital forensic cases is only foundational, I found the forensics lab was testing my ability to “connect the dots” by recovering deleted files, utilize inherit exposure, and paint a complete picture of major events. Unlike the previous challenges where a single tool was used, a library of tools that focus on unique elements of digital forensics was needed to complete the lab.
 
 The worldwide leaderboard shows each user’s ranking and earned badges. I was at the top for the first part of day 1, until the investigation lab became accessible and others raced to the top as I took a break.
+
+![BTLO Private Beta Profile of Danny Child](/uploads/blueteamlabs.online_home_user_7-2-.png)
 
 **What is BTLO working on now?**
 
