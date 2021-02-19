@@ -37,7 +37,7 @@ BTLO allows students to improve their already existing knowledge as a defender. 
 
 ## What is the difference between a lab and a challenge?
 
-An investigation lab is hosted by BTLO where investigations are performed in the browser. A challenge is a scenario including files that can be downloaded to your computer. All challenges are available for free, as well as one investigation lab. Additional investigation labs are available to BTLO subscribers.
+An investigation lab is hosted by BTLO where investigations are performed in the browser. A challenge is a scenario including files that can be downloaded to your computer. All challenges are available for free, as well as one investigation lab. Additional investigation labs are available to BTLO PRO subscribers.
 
 ## How much is it a PRO subscription?
 
@@ -48,4 +48,4 @@ There are 4 options for subscribing:
 * 6 months – £ 89 ($ 124.55) 
 * 1 year – £ 167 ($ 233.70)
 
-There is a lot more to come from BTLO. The launch day is February 26, 2021. With my 12-month pro subscription, I’ll be creating additional writeups for BTLO labs and challenges as they release. Due to BTLO rules, writeups can only be published after a lab has been retired so everyone has a fair chance to the leaderboard. I strongly encourage anyone who is looking to get a career as a SOC analyst, incident responder, digital forensics, or network analyst, get an account on BTLO.
+There is a lot more to come from BTLO. The [launch day](https://twitter.com/BlueLabsOnline/status/1362720451869474822) is February 26, 2021. With my 12-month PRO subscription, I’ll be creating additional writeups for BTLO labs and challenges as they release. Due to BTLO rules, writeups can only be published after a lab has been retired so everyone has a fair chance to the leaderboard. I strongly encourage anyone who is looking to get a career as a SOC analyst, incident responder, digital forensics, or network analyst, get an account on BTLO.
