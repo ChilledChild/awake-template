@@ -4,7 +4,7 @@
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input class="input is-medium" type="text" placeholder="John Smith" name="name"/>
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -15,6 +15,7 @@
       <label class="label is-medium">Email</label>
       <div class="control has-icons-left">
         <input
+          name="emai"
           class="input is-medium"
           type="email"
           placeholder="you@email.com"
@@ -29,6 +30,7 @@
       <label class="label is-medium">Subject</label>
       <div class="control has-icons-left">
         <input
+          name="subject"
           class="input is-medium"
           type="text"
           placeholder="Brief Summary"
@@ -43,13 +45,14 @@
       <label class="label is-medium">Message</label>
       <div class="control">
         <textarea
+          name="message"
           class="textarea"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
         ></textarea>
       </div>
     </div>
-    <div class="control">
+    <div class="control" type="submit">
       <button class="button is-primary">
         Send message
       </button>
