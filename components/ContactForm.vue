@@ -4,7 +4,12 @@
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" name="name"/>
+        <input
+          class="input is-medium"
+          type="text"
+          placeholder="John Smith"
+          name="name"
+        />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
