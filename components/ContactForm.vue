@@ -15,7 +15,7 @@
       <label class="label is-medium">Email</label>
       <div class="control has-icons-left">
         <input
-          name="emai"
+          name="email"
           class="input is-medium"
           type="email"
           placeholder="you@email.com"
