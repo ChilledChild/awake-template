@@ -35,8 +35,6 @@ Using the previously discovered key, the database storing all messages and conta
 
 Answer: 13026482364,ZerryThe🔥
 
-
-
 ### **What is the email id found in the chat?**
 
 By visiting table “messages”, all messages sent and received can be viewed. Row 21 contains an email address that was send by the other user.
@@ -66,5 +64,3 @@ Answer: 01-02-2021 9:00 AM
 After some searching, it is discovered that the GPS location text was stored in a sticky note on the desktop. Sticky note data is stored in /img_Zerry.E01/vol_vol3/ZerryD💣🔥/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/LocalState/plum.sqlite. The file does not require exporting, as the encoded text can be read directly in Autopsy’s details view. The text is encoded in ROT13, and can be placed into [CyberChef](https://gchq.github.io/CyberChef/) to get the hidden message.
 
 Answer: 40 degrees 45 minutes 28.6776 seconds N, 73 degrees 59 minutes 7.994 seconds W
-
-![Encoded text of sticky note file]()
