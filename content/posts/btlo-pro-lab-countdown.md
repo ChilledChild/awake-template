@@ -19,7 +19,7 @@ Zerry attempted to clear their tracks by using [Eraser](https://eraser.heidi.ie/
 
 Answer: 25165824,5c4e94315039f890e839d6992aeb6c58
 
-![Acquisition text data from FTK Imager, ](/uploads/screenshot-2021-03-23-164509.jpg)
+![Acquisition text data from FTK Imager](/uploads/zerry-image-info.png)
 
 **What is the decryption key of the online messenger app used by Zerry?**
 
