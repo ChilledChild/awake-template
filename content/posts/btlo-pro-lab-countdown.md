@@ -67,4 +67,4 @@ After some searching, it is discovered that the GPS location text was stored in 
 
 Answer: 40 degrees 45 minutes 28.6776 seconds N, 73 degrees 59 minutes 7.994 seconds W
 
-![Encoded text of sticky note file](/uploads/screenshot-2021-04-02-032602.jpg)
+![Encoded text of sticky note file]()
