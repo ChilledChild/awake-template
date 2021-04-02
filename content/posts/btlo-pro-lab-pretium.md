@@ -5,7 +5,7 @@ category:
   - Security Blue Team & BTLO
 author: Danny Child
 date: 2021-03-30T07:00:00.000Z
-featureImage: /uploads/euidzkbwsam27og.jpg
+featureImage: /uploads/n1wgrzgvhv9njoz1rx8j.png
 ---
 # **Lab Preface, Takeaways**
 
