@@ -3,6 +3,7 @@ title: BTLO Pro Lab - Countdown
 subtitle: Digital investigation on the clock
 category:
   - Security Blue Team & BTLO
+  - Digital Forensics
 author: Danny Child
 date: 2021-04-02T17:30:00.000Z
 featureImage: /uploads/o2getmcfkgayvkvokiy3.jpg
