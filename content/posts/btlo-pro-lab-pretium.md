@@ -3,6 +3,7 @@ title: BTLO Pro Lab - Pretium
 subtitle: Investigating a successful Business Email Compromise
 category:
   - Security Blue Team & BTLO
+  - Networking
 author: Danny Child
 date: 2021-03-30T07:00:00.000Z
 featureImage: /uploads/n1wgrzgvhv9njoz1rx8j.png
