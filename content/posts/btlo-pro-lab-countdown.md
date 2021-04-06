@@ -12,7 +12,7 @@ featureImage: /uploads/o2getmcfkgayvkvokiy3.jpg
 
 In [Countdown](https://blueteamlabs.online/home/investigation/1), the goal is to identify communication from a seized laptop, then discover when and where a potential bomb threat will occur. While a typical SOC analyst will never face a bomb threat, many of the practices used to identify answers are commonly used in forensic investigations.
 
-Zerry attempted to clear their tracks by using [Eraser](https://eraser.heidi.ie/download/), which was not totally effective since message history and other key information was still stored on the device. Had Zerry taken the extra step of performing malicious activity in a VM, or wiping the device operating system before being arrested, then analysis would prove more difficult. Many investigations that include digital forensics use prepared custom scripts that automate the collection of IOCs, shortening the response time.
+Zerry attempted to clear their tracks by using [Eraser](https://eraser.heidi.ie/), which was not totally effective since message history and other key information was still stored on the device. Had Zerry taken the extra step of performing malicious activity in a VM, or wiping the device operating system before being arrested, then analysis would prove more difficult. Many investigations that include digital forensics use prepared custom scripts that automate the collection of IOCs, shortening the response time.
 
 **Verify the Disk Image. Submit SectorCount and MD5**
 
