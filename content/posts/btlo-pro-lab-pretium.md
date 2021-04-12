@@ -1,6 +1,6 @@
 ---
 title: BTLO Pro Lab - Pretium
-subtitle: Investigating a successful Business Email Compromise
+subtitle: The cost of a successful Business Email Compromise
 category:
   - Security Blue Team & BTLO
   - Networking
