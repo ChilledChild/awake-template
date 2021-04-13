@@ -10,7 +10,7 @@ featureImage: /uploads/n1wgrzgvhv9njoz1rx8j.png
 ---
 # **Lab Preface, Takeaways**
 
-In Pretium, the goal is to find out how a phishing email led to a malicious actor exfiltrating data from a compromised workstation. One responsibility of a SOC employee is investigating fraudulent attempts that are sent via email, ranging from false financial claims, gathering data by impersonation, even executing malware unintentionally. This scenario includes recorded network traffic presented in a PCAP file, and a handoff note from the SOC team including the description of a suspicious email that a company employee interacted with.
+In [Pretium](https://blueteamlabs.online/home/investigation/6), the goal is to find out how a phishing email led to a malicious actor exfiltrating data from a compromised workstation. One responsibility of a SOC employee is investigating fraudulent attempts that are sent via email, ranging from false financial claims, gathering data by impersonation, even executing malware unintentionally. This scenario includes recorded network traffic presented in a PCAP file, and a handoff note from the SOC team including the description of a suspicious email that a company employee interacted with.
 
 To prevent this type of scenario, provide regular security awareness training and email phishing training to all employees. Also add security at the operating system and network level, thereby preventing malicious code from running and communicating to malicious hosts.
 
@@ -18,7 +18,7 @@ To prevent this type of scenario, provide regular security awareness training an
 
 ### **What is the full filename of the initial payload file?**
 
-Opening the PCAP file in Wireshark shows all communication between the compromised host and other systems. The email description specifies that a URL is included, so HTTP traffic to the malicious host should be anticipated if the ULR was interacted with. After filtering for HTTP traffic, the Info column shows a short summary of traffic being requested and sent. Packet number 4502 contains the answer. 
+Opening the PCAP file in [Wireshark](https://www.wireshark.org/) shows all communication between the compromised host and other systems. The email description specifies that a URL is included, so HTTP traffic to the malicious host should be anticipated if the ULR was interacted with. After filtering for HTTP traffic, the Info column shows a short summary of traffic being requested and sent. Packet number 4502 contains the answer. 
 
 Answer: INVOICE_2021973.pdf.bat
 
@@ -72,7 +72,7 @@ Answer: Empire
 
 ### **Using some Blue Team Magic, can detect data exfiltration and find out what have been exfiltrated? Provide the decoded password.**
 
-Ping requests are being generated with varying responses. The final two responses are equals signs, which indicates that the ping responses are actually sending data encoded in base64. These characters can be extracted with tshark. After converting the output to ASCII and base64, the decoded text is revealed.
+Ping requests are being generated with varying responses. The final two responses are equals signs, which indicates that the ping responses are actually sending data encoded in base64. These characters can be extracted with [tshark](https://www.wireshark.org/docs/man-pages/tshark.html). After converting the output to ASCII and base64, the decoded text is revealed.
 
 Answer: Y0uthinky0ucAnc4tchm3$$
 
