@@ -8,7 +8,7 @@ author: Danny Child
 date: 2021-04-02T17:30:00.000Z
 featureImage: /uploads/o2getmcfkgayvkvokiy3.jpg
 ---
-# **Lab preface, Takeaways**
+# **Lab Preface, Takeaways**
 
 In [Countdown](https://blueteamlabs.online/home/investigation/1), the goal is to identify communication from a seized laptop, then discover when and where a potential bomb threat will occur. While a typical SOC analyst will never face a bomb threat, many of the practices used to identify answers are commonly used in forensic investigations.
 
