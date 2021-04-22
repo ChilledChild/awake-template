@@ -1,5 +1,5 @@
 <template>
-  <form name="contact" method="POST" data-netlify="true" hidden>
+  <form name="contact" method="POST" data-netlify="true">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
@@ -20,7 +20,7 @@
       <label class="label is-medium">Email</label>
       <div class="control has-icons-left">
         <input
-          name="email"
+          name="email address"
           class="input is-medium"
           type="email"
           placeholder="you@email.com"
