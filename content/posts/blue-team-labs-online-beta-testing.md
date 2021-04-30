@@ -15,7 +15,7 @@ Beta testers have access to one lab and three challenges. The challenges focused
 
 ## My First Impression
 
-Each challenge was made interesting and fun by setting interesting and realistic expectations for each investigation. Red herrings made me try all sorts of IOC discovery techniques, which only added to my relief that an answer could be found. I nearly claimed the title for “first blood” for the email analysis challenge had it not been for an obvious trick.
+Each challenge was made interesting and fun by setting interesting and realistic expectations for each investigation. Red herrings made me try all sorts of IOC discovery techniques, which only added to my relief that an answer could be found. I nearly claimed the title for “first blood” for the [email analysis challenge](https://dannychild.com/btlo-challenge-the-planets-prestige) had it not been for an obvious trick.
 
 The Wireshark and WordPress Log challenges were relatively simple, as I was able to focus on identifying an isolated piece of information, so long as I knew how to read the logs. The WordPress log challenge had me focus on identifying unique attacks and tools used, along with correlating significant events to a CVE ID.
 
@@ -41,7 +41,7 @@ An investigation lab is hosted by BTLO where investigations are performed in the
 
 ## How much is a PRO subscription?
 
-There are 4 options for subscribing:
+There are 4 options for [subscribing](https://blueteamlabs.online/home/pro):
 
 * 1 month – £ 18.50 ($ 25.89) 
 * 3 months – £ 47 ($ 65.77)
