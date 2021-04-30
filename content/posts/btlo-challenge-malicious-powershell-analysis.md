@@ -7,7 +7,7 @@ author: Danny Child
 date: 2021-04-30T06:30:00.000Z
 featureImage: /uploads/500_x_500_logo_white_border.png
 ---
-# **Preface, Takeaways**
+# **Challenge Preface, Takeaways**
 
 In [Malicious PowerShell Analysis](https://blueteamlabs.online/home/challenge/7) a malicious PowerShell script that was executed from an email attachment is provided for analysis. As an incident responder, decode the PowerShell script and identify the type of malware responsible.
 
