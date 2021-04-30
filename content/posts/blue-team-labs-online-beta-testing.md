@@ -13,7 +13,7 @@ As a playground for digital defenders, BTLO is a gamified online platform where 
 
 Beta testers have access to one lab and three challenges. The challenges focused on web log analysis, PCAP analysis, and email analysis. The online lab provides a forensics scenario. Each fit into respective categories of Incident Response, Digital Forensics, Security Operations, and “CTF-Like”. Tools are suggested for each challenge, along with a short description on what to expect. All labs and challenges have on average 5 to 7 questions to answer, with varying points awarded per question.
 
-## My First Impression
+# My First Impression
 
 Each challenge was made interesting and fun by setting interesting and realistic expectations for each investigation. Red herrings made me try all sorts of IOC discovery techniques, which only added to my relief that an answer could be found. I nearly claimed the title for “first blood” for the [email analysis challenge](https://dannychild.com/btlo-challenge-the-planets-prestige) had it not been for an obvious trick.
 
@@ -27,19 +27,19 @@ The worldwide leaderboard shows each user’s ranking and earned badges. I was a
 
 ![BTLO Private Beta Profile of Danny Child](/uploads/blueteamlabs.online_home_user_7-2-.png)
 
-## What is BTLO working on now?
+# What is BTLO working on now?
 
 Being in the beta phase, many aspects of BTLO are developing and will continue to grow once open to the public. Servers will be available in many regions worldwide, additional challenges will be published, and the community will continue to grow with time. An additional 9 new labs will be added at launch that were not previously available during the beta.
 
-## How does BTLO compare to other online platforms?
+# How does BTLO compare to other online platforms?
 
 BTLO allows students to improve their already existing knowledge as a defender. Similar to [Hack The Box](https://www.hackthebox.eu/) (HTB), BTLO is designed for those who already have some cyber security defense knowledge. Presented challenges focus on an area of expertise, including digital forensics, or network log analysis. Unlike a typical CTF where a fixed string must be found (like “KEY-ABCD-1234”), BTLO challenges require the student to discover significant events and data related to the investigation to answer specific questions. Like HTB, there is a free tier of BTLO, allowing anyone to get a sample of what BTLO offers.
 
-## What is the difference between a lab and a challenge?
+# What is the difference between a lab and a challenge?
 
 An investigation lab is hosted by BTLO where investigations are performed in the browser. A challenge is a scenario including files that can be downloaded to your computer. All challenges are available for free, as well as one investigation lab. Additional investigation labs are available to BTLO PRO subscribers.
 
-## How much is a PRO subscription?
+# How much is a PRO subscription?
 
 There are 4 options for [subscribing](https://blueteamlabs.online/home/pro):
 
