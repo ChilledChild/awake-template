@@ -13,7 +13,7 @@ In [The Planet's Prestige](https://blueteamlabs.online/home/challenge/10), a hyp
 
 This challenge was available during the [beta of BTLO](https://dannychild.com/blue-team-labs-online-beta-testing). Simple tricks and red herrings can be expected from a malicious actor looking to deceive. Diversifying skills in technology brings new ideas and talents in any situation presented.
 
-# **Questions and Answers (Coming Soon)**
+# **Questions and Answers**
 
 ### **What is the email service used by the malicious actor?**
 
