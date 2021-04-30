@@ -14,7 +14,7 @@ In [Malicious PowerShell Analysis](https://blueteamlabs.online/home/challenge/7)
 
 Both public services and enterprise companies have access to email filtering services. Email content and attachments can be reviewed and compared to known malicious indicators before the email arrives in an inbox. Additionally, email can be assigned as spam by configured filtering rules so that caution is advised. If a file appears suspicious, it can be analyzed by [VirusTotal](https://www.virustotal.com/gui/) for malicious indicators.
 
-# **Questions, Answers (Coming Soon)**
+# **Questions and Answers (Coming Soon)**
 
 ### **What security protocol is being used for the communication with a malicious domain?**
 
