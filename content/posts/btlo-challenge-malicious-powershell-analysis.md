@@ -23,6 +23,6 @@ Both public services and enterprise companies have access to email filtering ser
 
 ### **What is used to execute the downloaded file?**
 
-### What is the domain name of the URI ending in ‘/6F2gd/’
+### **What is the domain name of the URI ending in ‘/6F2gd/’**
 
 ### **Based on the analysis of the obfuscated code, what is the name of the malware?**
