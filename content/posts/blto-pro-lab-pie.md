@@ -9,7 +9,7 @@ featureImage: /uploads/fuxk9bpvfqggsvqgezha.png
 ---
 # **Lab Preface, Takeaways**
 
-In [Pie](https://blueteamlabs.online/home/investigation/14), customers have reported that customer details have been stolen, claiming that the stolen data is unique to this company. If true, this implies that this company has suffered a breach within the customer database. Web access has been granted to a PHPMyAdmin interface for MariaDB, along with related access and system logs.
+In [Pie](https://blueteamlabs.online/home/investigation/14), customers have reported that customer details have been stolen, claiming that the stolen data is unique to this company. If true, this implies that this company has suffered a breach within the customer database. Web access has been granted to a PHPMyAdmin interface for MySQL, along with related access and system logs.
 
 Regarding credit card compliance, following [PCI DSS](https://www.pcisecuritystandards.org/) standards ensures that the bare minimum level of enterprise security is followed, and fines for stolen PII data incidents will be lessened. Meeting compliance standards will not grantee a suitable defense against malicious actors, and should be met with additional security measures.
 
