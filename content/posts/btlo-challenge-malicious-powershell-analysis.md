@@ -3,6 +3,7 @@ title: BTLO Challenge - Malicious PowerShell Analysis
 subtitle: Critical malware requires critical response
 category:
   - Security Blue Team & BTLO
+  - Programming
 author: Danny Child
 date: 2021-04-30T06:30:00.000Z
 featureImage: /uploads/500_x_500_logo_white_border.png
