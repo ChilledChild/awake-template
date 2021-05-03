@@ -58,7 +58,8 @@
         ></textarea>
       </div>
     </div>
-    <div class="control" type="submit" data-netlify-recaptcha="true">
+    <div class="control" type="submit">
+    <div data-netlify-recaptcha="true"></div>
       <button class="button is-primary">
         Send message
       </button>
