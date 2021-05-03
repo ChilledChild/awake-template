@@ -1,5 +1,5 @@
 <template>
-  <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" >
+  <form name="contact" method="POST" data-netlify="true" >
     <!-- Name -->
     <input type="hidden" name="form-name" value="contact">
     <div class="field">
@@ -58,7 +58,7 @@
         ></textarea>
       </div>
     </div>
-    <div class="control" data-netlify-recaptcha="true">
+    <div class="control" type="submit">
       <button class="button is-primary">
         Send message
       </button>
