@@ -32,13 +32,13 @@
                   </strong>
                 </p>
                 <p>
-                  <a href="https://www.linkedin.com/in/dannychild/" font-awesome-icon icon="linkedin" />Linkedin</a>
+                  <a href="https://www.linkedin.com/in/dannychild/"><span><font-awesome-icon icon="linkedin" /></span>Linkedin</a>
                 </p>
                 <p>
-                  <a href="https://twitter.com/_chilledchild" font-awesome-icon icon="twitter" />Twitter</a>
+                  <a href="https://twitter.com/_chilledchild"><span><font-awesome-icon icon="twitter" /></span></span>Twitter</a>
                 </p>
                 <p>
-                  <a href="https://github.com/ChilledChild" font-awesome-icon icon="github" />Github</a>
+                  <a href="https://github.com/ChilledChild"><span><font-awesome-icon icon="github" /></span>Github</a>
                 </p>
               </div>
             </article>
