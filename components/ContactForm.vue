@@ -59,8 +59,7 @@
       </div>
     </div>
     <div class="control" type="submit">
-    <div data-netlify-recaptcha="true"></div>
-      <button class="button is-primary">
+      <button class="button is-primary" data-netlify-recaptcha="true">
         Send message
       </button>
     </div>
