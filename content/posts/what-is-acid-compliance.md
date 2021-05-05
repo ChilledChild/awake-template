@@ -2,7 +2,7 @@
 title: What is ACID Compliance?
 subtitle: Defining database transactional standards
 category:
-  - Projects
+  - Databases
 author: Danny Child
 date: 2021-05-05T19:18:30.692Z
 featureImage: /uploads/jan-antonin-kolar-lrox0shwjuq-unsplash.jpg
