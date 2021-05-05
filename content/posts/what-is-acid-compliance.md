@@ -4,7 +4,7 @@ subtitle: Defining database transactional standards
 category:
   - Databases
 author: Danny Child
-date: 2021-05-05T19:18:30.692Z
+date: 2021-05-05T19:30:03.771Z
 featureImage: /uploads/jan-antonin-kolar-lrox0shwjuq-unsplash.jpg
 ---
 ACID (atomicity, consistency, isolation, durability) are attributes about a database that ensures data validity throughout anticipated errors or failures. As a database performs a transaction, checks are performed by the database software to ensure that each point of data complies to predefined rules that relate to the transaction. ACID compliant databases are favored for handling large business critical data that may be historically referenced. An ACID compliant database should comply with these four attributes:
@@ -27,14 +27,12 @@ Durability of a database ensures that any performed transactions are guaranteed 
 
 # **Databases and ACID Compliance**
 
-What happens when one of these attributes are missing in a database? MongoDB was found to not ensure ACID compliance, from research performed by Kyle Kingsbury. Kyle found that casual consistency was allowing nodes to read data before data is fully committed. As a result, data safety is not guaranteed, and written data can be lost, despite claiming ACID compliance. Had MongoDB claimed BASE compliance, the database community could have been more forgiving.
-https://twitter.com/QuinnyPig/status/1264052819515998208
-https://jepsen.io/analyses/mongodb-4.2.6
+What happens when one of these attributes are missing in a database? MongoDB was found to not ensure ACID compliance, from [research performed by Kyle Kingsbury](https://jepsen.io/analyses/mongodb-4.2.6). Kyle found that casual consistency was allowing nodes to read data before data is fully committed. As a result, data safety is not guaranteed, and written data can be lost, despite claiming ACID compliance. Had MongoDB claimed BASE compliance, the [database community](https://twitter.com/QuinnyPig/status/1264052819515998208) could have been more forgiving.
 
 Databases like PostgreSQL are ACID compliant out of the box. However, it is the responsibility of the database admin that transactions are handled correctly across each node. Similar to AWS and cloud security, the platform provides the option for ACID compliance, but what’s done with the database is what makes it ACID compliant.
 
-MySQL, one of the most popular SQL databases, is not ACID compliant on its own. MySQL first shipped with ISAM, which could not provide effective consistency, falling into the same trap that many other NoSQL databases meet. By integrating with InnoDB, services like Twitter and YouTube are able to take advantage of large transactions and quick read operations to serve millions of users.
+MySQL, one of the most popular SQL databases, is not ACID compliant on its own. MySQL first shipped with ISAM, which could not provide effective consistency, falling into the same trap that many other NoSQL databases meet. By [integrating with InnoDB](https://dev.mysql.com/doc/refman/5.6/en/mysql-acid.html), services like Twitter and YouTube are able to take advantage of large transactions and quick read operations to serve millions of users.
 
-Integrations like NodeJS allow for native interfacing with a NoSQL database, though effective data warehousing makes the difference to make a fast database while establishing data integrity. Reviewing methods from Kimball and Inmon provide solutions to OLTP vs OLAP data processing.
+Integrations like NodeJS allow for native interfacing with a NoSQL database, though effective data warehousing makes the difference to make a fast database while establishing data integrity. Reviewing [methods from Kimball and Inmon](https://tdan.com/data-warehouse-design-inmon-versus-kimball/20300) provide solutions to OLTP vs OLAP data processing.
 
 Meeting ACID compliance comes at the cost of computing resource and additional time for handling data. As computing resources become more available and cheaper to use, the upfront cost has less weight to the risk of time and potential error. If data is key to running a business, then removing the risk of data loss is eagerly met by a sound solution. As data becomes more complex, so do the needs of the system supporting that data.
