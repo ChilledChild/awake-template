@@ -32,16 +32,24 @@ Answer: \HOME\Db_bh30\Yf5be5g
 
 ### **What file is being downloaded (full name)?**
 
+After the directory was created, line 6 specifies that a file can be identified at the specified path. It won't be found until it's downloaded from another resource, but the name and possible usage is anticipated.
+
 Answer: A69S.dll
 
 ### **What is used to execute the downloaded file?**
+
+Lines 15 through 24 show what is being done with each URL in combination with line 6. The program identifies the downloaded file, and if it's greater than or equal to 35698 bytes in size, then execute it with `Control_RunDLL`. Knowing that `Control_RunDLL` is a command for a windows program, the file is clearly shown.
 
 Answer: rundll32
 
 ### **What is the domain name of the URI ending in ‘/6F2gd/’**
 
-Answer: wm.mcdevelop.net
+Lines 7 through 14 contain different domains that the malware attempts to connect to and obtain additional content. The domains are found to be malicious, which is why they have been defanged for analysis. The answer is found on line 14.
+
+Answer: wm.mcdevelop\[.]net
 
 ### **Based on the analysis of the obfuscated code, what is the name of the malware?**
 
-Answer: emotet
+All malware has unique attributes that can be identified. While some commands or obfuscation methods can be identified, looking up the domains on threat reputation sites can correlate this information. This famous malware has a history for installing other malware next to itself.
+
+Answer: Emotet
