@@ -10,7 +10,7 @@ featureImage: /uploads/500_x_500_logo_white_border.png
 ---
 # **Preface, Takeaways**
 
-An executive states he can’t access any files on his computer and keeps receiving a pop-up stating that his files have been encrypted. After the computer is removed from the network, a memory dump is generated and provided for forensic analysis. This scenario suggests using Volatility 2 to identify indicators of compromise.
+In [this challenge](https://blueteamlabs.online/home/challenge/1), an executive states he can’t access any files on his computer and keeps receiving a pop-up stating that his files have been encrypted. After the computer is removed from the network, a memory dump is generated and provided for forensic analysis. This scenario suggests using [Volatility 2](https://github.com/volatilityfoundation/volatility) to identify indicators of compromise.
 
 Wiping a device when malware is found is not always an option, especially when it could contain business critical files of a company executive. Disconnecting the device from the network is an option, so long as the malware does not negatively impact the device on loosing a network connection. Identifying the malware family can determine the next steps to remediation and preventing further impact.
 
