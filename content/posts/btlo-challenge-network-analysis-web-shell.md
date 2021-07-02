@@ -1,5 +1,5 @@
 ---
-title: BTLO Challenge - Network Analysis Web Shell
+title: BTLO Challenge - Network Analysis - Web Shell
 subtitle: Everyone comes out of their shell, eventually
 category:
   - Security Blue Team & BTLO
