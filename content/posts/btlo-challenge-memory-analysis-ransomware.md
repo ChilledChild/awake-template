@@ -22,6 +22,8 @@ Psscan is a module used by Volatility to search for all running processes. Filte
 
 Answer: @WanaDecryptor
 
+![](/uploads/screenshot-2021-07-01-222307.jpg)
+
 ### **What is the parent process ID for the suspicious process?**
 
 From the previous command, the column shows the assigned process ID.
@@ -40,11 +42,15 @@ The previously found file appears to be the source of the malicious process and 
 
 Answer: taskdl.exe
 
+![](/uploads/screenshot-2021-07-01-222228.jpg)
+
 ### **Find the path where the malicious file was first executed.**
 
 Now that the source of the ransomware has been found, its location path can be included in a final report presented by the security incident response team. Filescan is a module used by Volatility that can show the location of a file. By grepping the output for the malicious executable, the path, permissions, and memory offset are listed.
 
 Answer: C\Users\hacker\Desktop\or4qtckT.exe
+
+![](/uploads/screenshot-2021-07-01-224816.jpg)
 
 ### **Can you identify what ransomware it is? (Do your research!)**
 
@@ -57,3 +63,5 @@ Answer: [Wannacry](https://attack.mitre.org/software/S0366/)
 Using the same method as finding the malicious file path, searching for “.eky” shows the file used as the public key.
 
 Answer: 00000000.eky
+
+![](/uploads/screenshot-2021-07-01-232804.jpg)
