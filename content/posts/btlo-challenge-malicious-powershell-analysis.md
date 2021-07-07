@@ -16,7 +16,7 @@ Both public services and enterprise companies have access to email filtering ser
 
 # **Questions and Answers**
 
-The parameter `-ENCOD` makes all text Base64 encoded, so this will have to be decoded in Base64. After cleaning up the code of extra periods, unnecessary variables, tick marks, and concatenating strings, the code’s intentions become clear. While this can be further simplified, the code below marks where everything needed to solve this challenge can be found. Code related to the decrypted malware can be found [here](https://github.com/ChilledChild/BTLO-Labs-and-Challenges/blob/main/Malicious%20PowerShell%20Analysis/malicious_script.ps1).
+The parameter `-ENCOD` makes all text Base64 encoded, so this will have to be decoded in Base64. After cleaning up the code of extra periods, unnecessary variables, tick marks, and concatenating strings, the code’s intentions become clear. While this can be further simplified, the code below marks where everything needed to solve this challenge can be found. After decoding, deobfuscating, and defanging, the referenced code can be found [here](https://github.com/ChilledChild/BTLO-Labs-and-Challenges/blob/main/Malicious%20PowerShell%20Analysis/malicious_script.ps1).
 
 ### **What security protocol is being used for the communication with a malicious domain?**
 
