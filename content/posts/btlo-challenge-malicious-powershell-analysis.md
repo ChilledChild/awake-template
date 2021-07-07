@@ -52,4 +52,4 @@ Answer: wm.mcdevelop\[.]net
 
 All malware has unique attributes that can be identified. While some commands or obfuscation methods can be identified, looking up the domains on threat reputation sites can correlate this information. This famous malware has a history for installing other malware next to itself.
 
-Answer: Emotet
+Answer: [Emotet](https://attack.mitre.org/software/S0367/)
