@@ -5,7 +5,7 @@ category:
   - Digital Forensics
   - Security Blue Team & BTLO
 author: Danny Child
-date: 2021-07-02T05:25:19.272Z
+date: 2021-07-02T14:30:19.272Z
 featureImage: /uploads/500_x_500_logo_white_border.png
 ---
 # **Preface, Takeaways**
@@ -36,13 +36,13 @@ To the right of the process ID is the parent process ID (PPID). The PPID is the 
 
 Answer: or4qtckT.exe
 
+![](/uploads/screenshot-2021-07-01-222228.jpg)
+
 ### **If you drill down on the suspicious PID (vol.py -f infected.vmem --profile=Win7SP1x86 psscan | grep (PIDhere)), find the process used to delete files.**
 
 The previously found file appears to be the source of the malicious process and is controlling the other file listed from this command. 
 
 Answer: taskdl.exe
-
-![](/uploads/screenshot-2021-07-01-222228.jpg)
 
 ### **Find the path where the malicious file was first executed.**
 
