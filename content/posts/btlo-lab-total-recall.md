@@ -1,5 +1,5 @@
 ---
-title: BTLO Lab - Total Recall
+title: BTLO Pro Lab - Total Recall
 subtitle: Remember the What and How
 category:
   - Digital Forensics
@@ -68,13 +68,13 @@ Answer: RDP, 1028
 
 ### **An attempt was made to reset a newly-created user's password some time after 9 PM on 03/03/2021. Find the Execution PID and Execution Thread ID**
 
-Filtering the timestamps from 8:30 PM to 10:00 PM on 03/03/2021
+Filtering the timestamps from 8:30 PM to 10:00 PM on 03/03/2021, the message states that a user account's password was attempted to be reset. Selecting the “Show Details” text in the bottom right will show what was configured.
 
 Answer: 472, 2872
 
 ### **The insider has likely utilized ATT&CK ID T1547.001 to obtain persistence. Find the malicious registry entry and submit the Registry Key Value and modified date**
 
-Reviewing https://attack.mitre.org/techniques/T1547/001/ shows that there are registry keys that can be modified to execute programs on startup. After reviewing the listed registry paths, “HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit” contained a custom registry key that appears malicious.
+Reviewing <https://attack.mitre.org/techniques/T1547/001/> shows that there are registry keys that can be modified to execute programs on startup. After reviewing the listed registry paths, “HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit” contained a custom registry key that appears malicious.
 
 Answer: Userinit.exe, evil.exe, 2021-03-07 11:15:29Z
 
